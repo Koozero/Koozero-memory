@@ -1,0 +1,1 @@
+# Core Asset Technical Spec Sheet: Koozero 3D Animation
